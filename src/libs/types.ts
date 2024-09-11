@@ -4,5 +4,7 @@ export interface termsAndCondsProps {
 }
 
 export interface footerProps {
-  // define props here
+  year:string;
+  fullName:string;
+  studentId:string;
 }
